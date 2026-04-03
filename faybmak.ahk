@@ -111,7 +111,7 @@ NumpadPgUp::Send, {Click, Middle}
 	SC013::^PgUp
 	SC014::^PgDn 
 	SC015::Send {Volume_Up}
-	SC016::Return
+	SC016::@
 	SC017::7
 	SC018::8
 	SC019::9
@@ -123,7 +123,7 @@ NumpadPgUp::Send, {Click, Middle}
 	SC021::!End
 	SC022::^!End
 	SC023::Return
-	SC024::+Tab
+	SC024::.
 	SC025::4
 	SC026::5
 	SC027::6
@@ -134,12 +134,12 @@ NumpadPgUp::Send, {Click, Middle}
 	SC02d::Return
 	SC02e::^!PgDn
 	SC02f::^!PgUp
-	SC030::^!x
+	SC030::Delete
 	SC031::Return
 	SC032::1
 	SC033::2
 	SC034::3
-	SC035:::
+	SC035::ß
 
 	SC039::enter
 
@@ -241,20 +241,20 @@ NumpadPgUp::Send, {Click, Middle}
 	SC022::,
 	SC023::Return
 	SC024::SendInput, ``
-	SC025::#
+	SC025::\
 	SC026::^
 	SC027::Send {´}
 	SC028::Send {°}
 
 	SC056::<
-	SC02c::ß
+	SC02c::#
 	SC02d::>
 	SC02e::=
 	SC02f::;
 	SC030::?
 	SC031::Return
-	SC032::SendInput, `%
-	SC033::@
+	SC032::Return
+	SC033::%
 	SC034::Return
 	SC035::Return
 	SC039:::
@@ -292,6 +292,7 @@ NumpadPgUp::Send, {Click, Middle}
 	SC020::s
 	SC021::t
 	SC022::g
+	SC023::^!h
 	SC024::m
 	SC025::n
 	SC026::e
