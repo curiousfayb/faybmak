@@ -10,7 +10,7 @@ This is a layered and modified version of the angle-mod wide ISO [Colemak-DH lay
    ┃ L3    ┃ q   │ w   │ c   │ p   │ b   │Vol- │ j   │ l   │ u   │ y   │ BS  │Shift┃ Enter ┃
    ┣━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃
    ┃        ┃ A   │ R   │ S   │ T   │ G   │Ctrl+│ M   │ N   │ E   │ I   │ O   │     ┃      ┃
-   ┃ Ctrl   ┃ a   │ r   │ s   │ t   │ g   │ Alt │ m   │ n   │ e   │ i   │ o   │ L1  ┃      ┃
+   ┃ Ctrl   ┃ a   │ r   │ s   │ t   │ g   │Alt+h│ m   │ n   │ e   │ i   │ o   │ L1  ┃      ┃
    ┣━━━━━━┳━┹───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┲━┷━━━━━┻━━━━━━┫
    ┃      ┃ Z   │ Ö   │ F   │ D   │ V   │ X   │     │ K   │ H   │ Ü   │ Ä   ┃              ┃
    ┃Shift ┃ z   │ ö   │ f   │ d   │ v   │ x   │ WIN │ k   │ h   │ ü   │ ä   ┃ Win + Alt    ┃
@@ -26,11 +26,11 @@ This is a layered and modified version of the angle-mod wide ISO [Colemak-DH lay
    ┃       ┃     │     │     │     │     │     │     │     │     │     │     │     ┃       ┃
    ┃ L3    ┃ ~   │ !   │ /   │ |   │ &   │     │     │     │     │     │     │Shift┃ Enter ┃
    ┣━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃
-   ┃        ┃     │     │     │     │     │Ctrl+│     │     │     │     │     │     ┃      ┃
-   ┃ Ctrl   ┃ -   │ +   │ *   │ .   │ ,   │ Alt │ ´   │ #   │ ^   │ `   │ °   │ L1  ┃      ┃
+   ┃        ┃     │     │     │     │     │     │     │     │     │     │     │     ┃      ┃
+   ┃ Ctrl   ┃ -   │ +   │ *   │ .   │ ,   │     │ ´   │ \   │ ^   │ `   │ °   │ L1  ┃      ┃
    ┣━━━━━━┳━┹───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┲━┷━━━━━┻━━━━━━┫
    ┃      ┃     │     │     │ ´   │ `   │     │     │     │     │     │     ┃              ┃
-   ┃Shift ┃ <   │ ß   │ >   │ =   │ ;   │ ?   │ WIN │ %   │ @   │     │     ┃ Win + Alt    ┃
+   ┃Shift ┃ <   │ #   │ >   │ =   │ ;   │ ?   │ WIN │ %   │ @   │     │     ┃ Win + Alt    ┃
    ┣━━━━━━┻┳━━━━┷━━┳━━┷━━━━┱┴─────┴─────┴─────┴─────┴─────┴────┲┷━━━━━╈━━━━━┻┳━━━━━━┳━━━━━━┫
    ┃       ┃       ┃       ┃                                   ┃      ┃      ┃      ┃      ┃
    ┃       ┃ Win   ┃ Alt   ┃           :                       ┃ L2   ┃      ┃ Ctrl ┃      ┃
@@ -43,8 +43,8 @@ This is a layered and modified version of the angle-mod wide ISO [Colemak-DH lay
    ┃       ┃     │     │     │     │     │     │     │     │     │     │     │     ┃       ┃
    ┃ L3    ┃ ^!q │LEFT │UP   │RGHT │ ^!t │Mute │Brgt+│Brgt-│ [   │ ]   │ ESC │Shift┃ Enter ┃
    ┣━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃
-   ┃        ┃     │     │     │     │     │Ctrl+│     │     │     │     │     │     ┃      ┃
-   ┃ Ctrl   ┃HOME │^LEFT│ DN  │^RGHT│ END │ Alt │     │ (   │ )   │ Tab │ DEL │ L1  ┃      ┃
+   ┃        ┃     │     │     │     │     │     │     │     │     │     │     │     ┃      ┃
+   ┃ Ctrl   ┃HOME │^LEFT│ DN  │^RGHT│ END │     │     │ (   │ )   │ Tab │ DEL │ L1  ┃      ┃
    ┣━━━━━━┳━┹───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┲━┷━━━━━┻━━━━━━┫
    ┃      ┃     │     │     │     │     │     │     │     │     │     │     ┃              ┃
    ┃Shift ┃ $   │ ^!b │ '   │!PGUP│!PGDN│ "   │ WIN │ {   │ }   │     |     ┃ Win + Alt    ┃
@@ -59,13 +59,13 @@ This is a layered and modified version of the angle-mod wide ISO [Colemak-DH lay
    ┃     │ F3  │ F4  │COPY │PASTE│^MIUS│^PLUS│ F2  │ F10 │ F11 │!+b  │+F10 │ F12 ┃         ┃
    ┣━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫
    ┃       ┃#^   │#^   │^!   │^    │^    │     │     │     │     │     │     │     ┃       ┃
-   ┃ L3    ┃LEFT │RGHT │UP   |PGUP │PGDN │Vol+ │     │ 7   │ 8   │ 9   │ BS  │Shift┃ Enter ┃
+   ┃ L3    ┃LEFT │RGHT │UP   |PGUP │PGDN │Vol+ │  @  │ 7   │ 8   │ 9   │ BS  │Shift┃ Enter ┃
    ┣━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃
-   ┃        ┃^!   │     │^!   │     │^!   │Ctrl+│     │     │     │     │     │     ┃      ┃
-   ┃ Ctrl   ┃HOME │!HOME│DN   │!END │END  │ Alt │ .   │ 4   │ 5   │ 6   │ 0   │ L1  ┃      ┃
+   ┃        ┃^!   │     │^!   │     │^!   │     │     │     │     │     │     │     ┃      ┃
+   ┃ Ctrl   ┃HOME │!HOME│DN   │!END │END  │     │ .   │ 4   │ 5   │ 6   │ 0   │ L1  ┃      ┃
    ┣━━━━━━┳━┹───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┬─┴───┲━┷━━━━━┻━━━━━━┫
    ┃      ┃     │     │     │^!   │^!   │     │     │     │     │     │     ┃              ┃
-   ┃Shift ┃SLEEP│     │     │PGDN │PGUP │ DEL │ WIN │ 1   │ 2   │ 3   │ :   ┃ Win + Alt    ┃
+   ┃Shift ┃SLEEP│     │     │PGDN │PGUP │ DEL │ WIN │ 1   │ 2   │ 3   │ ß   ┃ Win + Alt    ┃
    ┣━━━━━━┻┳━━━━┷━━┳━━┷━━━━┱┴─────┴─────┴─────┴─────┴─────┴────┲┷━━━━━╈━━━━━┻┳━━━━━━┳━━━━━━┫
    ┃       ┃       ┃       ┃                                   ┃      ┃      ┃      ┃      ┃
    ┃       ┃ Win   ┃ Alt   ┃              ENTER                ┃ L2   ┃      ┃ Ctrl ┃      ┃
